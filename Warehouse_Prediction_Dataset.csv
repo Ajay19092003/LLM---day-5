@@ -1,0 +1,11 @@
+Query,Response,Context
+What is the current stock level of Product A?,The current stock level of Product A is 500 units.,Product A is a high-demand item.
+When should we restock Product B?,Product B should be restocked in 2 weeks.,"Product B has a lead time of 3 weeks, so plan ahead."
+What is the forecasted demand for Product C next month?,The forecasted demand for Product C next month is 1200 units.,Product C is affected by seasonal demand fluctuations.
+How many units of Product D were sold last week?,"Last week, 300 units of Product D were sold.",Product D sales are consistent week over week.
+What is the lead time for Product E?,The lead time for Product E is 5 days.,"Product E is sourced locally, ensuring quick delivery."
+Are there any seasonal trends for Product F?,Product F has higher sales during the holiday season.,Product F peaks in December due to holiday demand.
+What is the recommended reorder quantity for Product G?,The recommended reorder quantity for Product G is 400 units.,Product G has a bulk discount when reordered in large quantities.
+What is the storage capacity utilization in the warehouse?,The warehouse is currently at 75% storage capacity utilization.,Storage optimization is being monitored for efficiency.
+Which products are at risk of stockout?,Products X and Y are at risk of stockout based on current trends.,Stockout risk is calculated based on current sales and stock levels.
+What is the average daily sales of Product H?,The average daily sales of Product H are 50 units.,Sales data for Product H shows steady growth.
